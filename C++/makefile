@@ -1,6 +1,6 @@
 #  Makefile for linking Boost libraries
 #    My program uses boost_thread-mt
-#    We have to boost_system-mt otherwise the compiler would complain. 
+#    We have to include boost_system-mt otherwise the compiler would complain. 
 
 CC = g++
 LD = g++
