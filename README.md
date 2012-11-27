@@ -20,4 +20,4 @@ Every time a Monte Carlo simulation is made using the same sample size n it will
 
 Other Thoughts
 ==============
-Monte Carlo method can also be used to approximate the area <B>A</B> under a curve <B>y = f(x) for a<x<b</B>, or, to approximate the area of a region defined by a set of inequalities or constraints.
+Monte Carlo method can also be used to approximate the area <B>A</B> under a curve <B>y = f(x)</B> for <B>a≤x≤b</B>, or, to approximate the area of a region defined by a set of inequalities or constraints.
