@@ -3,9 +3,9 @@ Preliminary
 Suppose we have a circle with radius <B>r=1</B> inscribed within a square. The area of the ciecle is <B>πr^3 = π1^3 = π</B>, and the area of the square is <B>(2r)^2 = 2^2 = 4</B>. The ratio of the area of the circle to the area of the square is
 
 <pre>
-      area of circle         πr^2       π
-ρ = ------------------- = ---------- = ---
-      area of square        (2r)^2      4
+      area of circle       πr^2       π
+ρ = ────────────────── = ──────── = ─────
+      area of square      (2r)^2      4
 </pre> 
 
 If we could compute the ratio, then we could multiply it by <B>4</B> to obtain the value of <B>π</B>. 
